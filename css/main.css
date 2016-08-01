@@ -1,15 +1,7 @@
 header {
   background-color: #FF9900;
-  position: fixed;
-  width: 100%;
-}
-
-main {
-  padding-top: 100px;
-}
-
-main .row {
-  margin-top: 30px;
+  padding-bottom: 10px;
+  margin-bottom: 40px;
 }
 
 .box {
